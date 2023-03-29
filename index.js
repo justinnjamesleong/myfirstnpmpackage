@@ -3,4 +3,4 @@ function helloNpm() {
 
 }
 
-module.exports = helloNpm
+module.exports = helloNp
